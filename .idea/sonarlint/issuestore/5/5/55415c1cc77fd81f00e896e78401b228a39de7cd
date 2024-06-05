@@ -1,0 +1,22 @@
+
+	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ÿõÇş1J$8405d9f2-a320-4f7f-8060-0431145391c1
+	java:S112*"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ûî’Èş1J$ceb9a260-44c2-4c16-9f52-3f5d19625dbf
+	java:S112;"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ûî’Èş1J$143f8f6d-8da0-4753-9060-c733ff1445cf
+	java:S112L"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ûî’Èş1J$4d3bf41b-0c34-424a-9fda-a6d95d4eb804
+	java:S112]"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ûî’Èş1J$a46576fa-da9f-4977-b8f4-4b590acf5c75
+—
+java:S2095F"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(½¨“Ğúÿÿÿÿ8ô¬”Èş1J$ddef644f-8269-4b43-b501-6812daf2eb44
+—
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(½¨“Ğúÿÿÿÿ8Šš”Èş1J$8b133d5d-6d14-4503-9773-880feb3161f1
+—
+java:S20955"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(½¨“Ğúÿÿÿÿ8•Æ”Èş1J$d2ebb9dd-12b3-4bb8-af0e-e962c4174d94
+—
+java:S2095$"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(½¨“Ğúÿÿÿÿ8š‡”Èş1J$7abb2860-c23e-4689-8a7a-383d9d3a062f
+—
+java:S2095W"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(½¨“Ğúÿÿÿÿ8Êì“Èş1J$041230f0-cc08-4d1a-a6ca-98d57e7fda79
+}
+java:S1118":Add a private constructor to hide the implicit public one.(ŒãÆ©8ï’Èş1J$94a2928b-7f98-479a-8386-74b542316331
+v
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(ó§âÿÿÿÿÿ8ø”Èş1
+v
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(²¦åıùÿÿÿÿ8ø”Èş1

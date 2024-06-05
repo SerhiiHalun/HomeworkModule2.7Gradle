@@ -1,0 +1,11 @@
+
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ç›„ø8þÂŠÈþ1J$dbbdf827-4879-4834-829a-1c9e193967d7
+
+java:S1854"<Remove this useless assignment to local variable "database".(¨‘ìŽ8…ÃŠÈþ1J$056524a2-9e2e-45e4-8120-660e490d6270
+p
+java:S1481"-Remove this unused "database" local variable.(¨‘ìŽ8ŠÃŠÈþ1J$3332aad3-67be-4a3a-82bd-6661e1ddc221
+r	java:S106"+Replace this use of System.out by a logger.(Š¶¸Ãÿÿÿÿÿ8‹ÃŠÈþ1J$8e5e6bae-d71a-4cfa-bd45-ebca4174d3d5
+m	java:S106"+Replace this use of System.out by a logger.(¦òíÕ8ŒÃŠÈþ1J$bd4c70b5-10f4-42aa-a6a2-d59bb356e12e
+r	java:S106"+Replace this use of System.out by a logger.(îôˆõøÿÿÿÿ8ŒÃŠÈþ1J$911863b3-100c-460f-92dd-fc640facb727
+r	java:S106"+Replace this use of System.out by a logger.(ðŸÌÍÿÿÿÿÿ8ÃŠÈþ1J$72b9a25e-b387-4e8a-8835-6523e6a2a810
+r	java:S106"+Replace this use of System.out by a logger.(ú¦Êúÿÿÿÿ8ÃŠÈþ1J$eed8d6d2-970d-4463-8ace-87dddc74baa2
