@@ -1,5 +1,5 @@
 
-†	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚ÒιόÿÿÿÿJ$6fb303a1-ffa2-408e-9243-aed83d4ddb95
-•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Η›„ψJ$1c02483c-bdc4-403f-bc62-42b5a527e12c
+†	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚ÒιόÿÿÿÿJ$0b3f5271-60a8-4aed-ab0f-12fe465faaaa
+•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Η›„ψJ$92a76388-17c2-42c3-be70-ecae982d0407
 ƒ
-java:S2095"GUse try-with-resources or close this "Statement" in a "finally" clause.(Δ΅μ³J$d8bdf6e9-7d0b-4904-8ef0-a5ad8021965d
+java:S2095"GUse try-with-resources or close this "Statement" in a "finally" clause.(Δ΅μ³J$01880020-a52c-4479-892a-947d45c2a1ea

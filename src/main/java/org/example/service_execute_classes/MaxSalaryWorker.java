@@ -1,6 +1,4 @@
-package org.example.return_objects_SQL_query;
-
-import javax.lang.model.element.Name;
+package org.example.service_execute_classes;
 
 public class MaxSalaryWorker {
     private String name;

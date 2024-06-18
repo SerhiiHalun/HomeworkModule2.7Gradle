@@ -1,0 +1,10 @@
+
+
+java:S1854"<Remove this useless assignment to local variable "database".(¨‘ì8…ÃŠÈş1J$6e4d054e-7385-4d29-bd41-b19d3cf4cf5c
+p
+java:S1481"-Remove this unused "database" local variable.(¨‘ì8ŠÃŠÈş1J$cea239a6-363f-4d24-aea2-e4d5c47884ac
+r	java:S106"+Replace this use of System.out by a logger.(Š¶¸Ãÿÿÿÿÿ8‹ÃŠÈş1J$609b1157-255b-4f78-81cf-b4d7b26410b3
+m	java:S106"+Replace this use of System.out by a logger.(¦òíÕ8ŒÃŠÈş1J$a27f3b78-c8ea-4c2f-a804-fc6567667de1
+r	java:S106"+Replace this use of System.out by a logger.(îôˆõøÿÿÿÿ8ŒÃŠÈş1J$35c26b6f-9193-409a-9e7a-81b19a8e062e
+r	java:S106"+Replace this use of System.out by a logger.(ğŸÌÍÿÿÿÿÿ8ÃŠÈş1J$fa074572-fbfe-422b-819c-e4e8491b0a89
+r	java:S106"+Replace this use of System.out by a logger.(ú¦Êúÿÿÿÿ8ÃŠÈş1J$dc367444-94ce-4ec1-8b4b-03ca72eaf949

@@ -1,4 +1,4 @@
-package org.example.return_objects_SQL_query;
+package org.example.service_execute_classes;
 
 public class LongestProject {
     private String clientName;

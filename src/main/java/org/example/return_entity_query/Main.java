@@ -1,8 +1,8 @@
-package org.example.ExcuteClasses;
+package org.example.return_entity_query;
 
 import org.example.Database;
 import org.example.DatabaseQueryService;
-import org.example.return_objects_SQL_query.*;
+import org.example.service_execute_classes.*;
 
 import java.util.List;
 

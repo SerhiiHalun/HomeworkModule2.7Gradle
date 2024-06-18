@@ -1,8 +1,6 @@
 
 <
 build.gradle,f\0\f07866736216be0ee2aba49e392191aeae700a35
-S
-#src/main/java/org/example/Main.java,0\b\0ba1b9c7a4878802f938e331cc2d8a042087ec6b
 X
 (gradle/wrapper/gradle-wrapper.properties,f\b\fbe448ebfc3eb2d4e308f6b8b043666f5b57235e
 a
@@ -27,3 +25,13 @@ u
 Esrc/main/java/org/example/return_objects_SQL_query/ProjectPrices.java,6\6\661d58e15732d07a5240c1ce348a29c8bebabd8c
 t
 Dsrc/main/java/org/example/ExcuteClasses/DatabasePopulateService.java,4\6\46ba526ada7b5fbfbc43872da1ab3ddf4adb05ca
+g
+7src/main/java/org/example/return_entity_query/Main.java,e\4\e451cc53c1d3fde74f6a9f140c09a866cb832e72
+z
+Jsrc/main/java/org/example/return_entity_query/DatabasePopulateService.java,b\9\b925629dd9b3131365101fe16418fd57e6e7f354
+v
+Fsrc/main/java/org/example/return_entity_query/DatabaseInitService.java,3\c\3c122bfb68392958266998cd82598310226110f9
+t
+Dsrc/main/java/org/example/service_execute_classes/ProjectPrices.java,d\6\d6338e371fd6c9dd0d5e72d40f93abbac2f94e83
+?
+settings.gradle,0\5\05efc8b1657769a27696d478ded1e95f38737233
